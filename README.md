@@ -21,110 +21,60 @@
 
 ## 🏆 Recent Achievements
 
-<table>
-<tr>
-<td width="50%">
+**🥈 Pohang Digital Twin AI Chatbot Hackathon (2025)** - Excellence Award (2nd Place)
+Small Port Integrated Control System with AI chatbot integration. [🔗 awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
 
-### 🥈 Pohang AI Chatbot Hackathon (2025)
-**2nd Place** - Small Port Integrated Control System
-- FastAPI + React + AI Integration
-- [🔗 awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
+**🥇 BlackOut Hackathon (2025)** - Dunamu Track 1st Place (Overall 2nd)
+Blockchain-based sperm donor information management platform. [🔗 Sperm Nest](https://github.com/blackout-oldguys/DGDT_FE)
 
-</td>
-<td width="50%">
+**🏅 POSTECH Programming Contest (2024)** - Excellence Award (2nd Place)
+Competitive programming contest among POSTECH students.
 
-### 🥇 Challenge K-Startup (2023)
-**Excellence Award** (국방부장관상)
-- **Top 10 out of 6,187 teams**
-- [📺 Video](https://www.youtube.com/watch?v=Eit2847cLOo)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🥇 BlackOut Hackathon (2024)
-**Dunamu Track 1st Place** (Overall 2nd)
-- Blockchain-based platform
-- [🔗 Sperm Nest](https://github.com/blackout-oldguys/DGDT_FE)
-
-</td>
-<td width="50%">
-
-### 🎨 Google Gemini Hackathon (2025)
-**Nano Banana Hackathon**
-- AI-powered 3D travel memories
-- [🔗 Memento Land](https://github.com/stpcoder/mementoland)
-
-</td>
-</tr>
-</table>
+**🥇 Challenge K-Startup (2023)** - Excellence Award (국방부장관상)
+Top 10 out of 6,187 teams nationwide. [📺 Video](https://www.youtube.com/watch?v=Eit2847cLOo)
 
 ---
 
 ## 💼 Experience
 
-```yaml
-SK Hynix (2025.01 - 2025.02):
-  position: Client FTL Development Intern
-  achievement: Excellence Award at internship project presentation (Solution Group 1st)
+**SK Hynix** | Client FTL Development Intern
+*Jan 2025 - Feb 2025*
+• Developed NAND Flash Translation Layer Simulator
+• Proposed optimal algorithms for flash memory management
+• Excellence Award at internship project presentation (Solution Group 1st)
 
-POSTECH HIS Lab (2023.09 - 2024.02):
-  position: Undergraduate Research Intern
-  research: Emotion-Action Generation Style Transfer Model
+**POSTECH HIS Lab** | Undergraduate Research Intern
+*Sep 2023 - Feb 2024*
+• Conducted research on Emotion-Action Generation Style Transfer Model
+• Developed deep learning models using PyTorch
 
-Republic of Korea Air Force (2022.02 - 2023.11):
-  position: Squad Leader
-  specialty: Special Intelligence MOS
+**Republic of Korea Air Force** | Squad Leader (Sergeant)
+*Feb 2022 - Nov 2023*
+• Special Intelligence MOS
+• Led a squad for 7 months
 
-MIRIDI.H (2021.06 - 2021.08):
-  position: Frontend Development Intern
-  project: Miricanvas React-based Web Interface
-```
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**MIRIDI.H (미리디)** | Frontend Development Intern
+*Jun 2021 - Aug 2021*
+• Developed React-based web interfaces for Miricanvas
+• Implemented responsive UI components
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Scholarships & Honors
 
-<div align="center">
+- 🎓 **Presidential Science Scholarship** (2024 - Current)
+  National scholarship administered by the Ministry of Science and ICT
 
-  ![Taeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=stpcoder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+- 🎓 **Kwanjeong Educational Foundation Scholar** (2024 - Current)
+  Foundation supporting Korea's top talents
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stpcoder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+- 🎓 **Humanities Wisdom Scholar PAN+ 4th** (2024 - Current)
+  Humanities scholarship program by Platon Academy Foundation
 
-</div>
+- 🏆 **SK Hynix Internship Excellence Award** (2025)
+  Solution Group 1st Place
 
 ---
-
 ## 🎯 Featured Projects
 
 <table>
@@ -185,21 +135,41 @@ Modern, responsive portfolio with academic CV
 
 ---
 
-## 🏅 Scholarships & Honors
-
-- 🎓 **Presidential Science Scholarship** (2024 - Current)
-- 🎓 **Kwanjeong Educational Foundation Scholar** (2024 - Current)
-- 🎓 **Humanities Wisdom Scholar PAN+ 4th** (2024 - Current)
-- 🏆 **SK Hynix Internship Excellence Award** (Solution Group 1st)
-
----
-
 ## 📫 Get In Touch
 
 - 💼 LinkedIn: [linkedin.com/in/TaehoJe](https://www.linkedin.com/in/TaehoJe)
 - 📧 Email: thbrian@naver.com
 - 🌐 Portfolio: [stpcoder.github.io](https://stpcoder.github.io)
 - 💻 GitHub: [github.com/stpcoder](https://github.com/stpcoder)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
