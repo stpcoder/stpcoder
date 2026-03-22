@@ -23,8 +23,11 @@
 
 ## 🏆 Recent Achievements
 
-**Kakao AI TOP 100 Grand Prize (2025)**  
+**Kakao AI TOP 100 Grand Prize (1st Place, 2025)**  
 Grand Prize winner among 3,000 applicants and 100 finalists.
+
+**Challenge K-Startup 2023 Excellence Award (Top 10 / 6,187 teams)**  
+Minister of National Defense Award.
 
 **Pohang Digital Twin AI Chatbot Hackathon (2025)** - Excellence Award (2nd Place)  
 Small Port Integrated Control System with AI chatbot integration. [awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
