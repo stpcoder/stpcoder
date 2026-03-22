@@ -68,6 +68,16 @@
 
 ## Featured Projects
 
+### automatic
+Recently updated TypeScript project and one of the most current repositories on the profile.  
+Tech: TypeScript  
+[Repository](https://github.com/stpcoder/automatic)
+
+### kakao-terminal
+Recently updated Python project and one of the most current public repositories on the profile.  
+Tech: Python  
+[Repository](https://github.com/stpcoder/kakao-terminal)
+
 ### Ship Navigator
 Pohang Digital Twin AI Chatbot Hackathon project for small-port integrated control with AI chatbot support.  
 Tech: JavaScript, AI integration, product prototyping  
@@ -77,16 +87,6 @@ Tech: JavaScript, AI integration, product prototyping
 AI-powered web application that transforms travel photos into 3D miniature collectibles.  
 Tech: JavaScript, Vite, Gemini API  
 [Repository](https://github.com/stpcoder/mementoland)
-
-### stpcoder.github.io
-Personal portfolio site and profile hub.  
-Tech: React, Vite, interactive UI  
-[Repository](https://github.com/stpcoder/stpcoder.github.io) · [Live](https://stpcoder.github.io/)
-
-### awesome-korean-mlb-players
-Personal data/project work around Korean MLB players.  
-Tech: TypeScript, data handling  
-[Repository](https://github.com/stpcoder/awesome-korean-mlb-players)
 
 ---
 
