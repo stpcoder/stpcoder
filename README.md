@@ -5,6 +5,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-stpcoder.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stpcoder.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-taehoje-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehoje/)
   [![Email](https://img.shields.io/badge/Email-thbrian@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thbrian@naver.com)
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=stpcoder.stpcoder)
 
 </div>
 
@@ -76,12 +77,6 @@ Humanities scholarship program by Platon Academy Foundation.
 - [카카오 공식 유튜브 | AI대탈출 - AI로 문제를 해결하고, 탈출하라!](https://youtu.be/ksdK-zpmBRI?t=2075)
 - [국민일보 인터뷰 | "AI가 못 푸는 문제? 내가 먼저 도전"…포스텍생 제태호 씨](https://www.kmib.co.kr/article/view.asp?arcid=1767509497)
 
-
-<div align="center">
-
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=stpcoder.stpcoder)
-
-</div>
 
 ---
 
