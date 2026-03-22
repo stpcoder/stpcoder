@@ -26,14 +26,14 @@
 **🏅 MuEunJae Award (2026)**  
 Awarded to undergraduate graduates who contributed to POSTECH's development and enhanced its honor.
 
-**🎓 Presidential Science Scholarship (2024 - Current)**  
-National scholarship administered by the Ministry of Science and ICT.
+**🏆 SK Hynix Internship Excellence Award (2025)**  
+Solution Group 1st Place at internship project presentation.
 
-**🎓 Kwanjeong Educational Foundation Scholar (2024 - Current)**  
-Foundation supporting Korea's top talents.
+**🥈 Pohang Digital Twin AI Chatbot Hackathon (2025)** - Excellence Award (2nd Place)  
+Small Port Integrated Control System with AI chatbot integration. [🔗 awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
 
-**🎓 Humanities Wisdom Scholar PAN+ 4th (2024 - Current)**  
-Humanities scholarship program by Platon Academy Foundation.
+**🥇 BlackOut Hackathon (2025)** - Dunamu Track 1st Place (Overall 2nd)  
+Blockchain-based donor information management platform.
 
 ---
 
@@ -132,6 +132,14 @@ AI-powered web application that transforms travel photos into 3D miniature colle
 
 ---
 
+<div align="center">
+
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=stpcoder.stpcoder)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -158,13 +166,3 @@ AI-powered web application that transforms travel photos into 3D miniature colle
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## 📫 Get In Touch
-
-- LinkedIn: [linkedin.com/in/taehoje](https://www.linkedin.com/in/taehoje/)
-- Email: thbrian@naver.com
-- Portfolio: [stpcoder.github.io](https://stpcoder.github.io)
-- GitHub: [github.com/stpcoder](https://github.com/stpcoder)
-- Threads: [@meteho__1](http://threads.com/@meteho__1)
