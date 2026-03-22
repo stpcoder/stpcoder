@@ -22,9 +22,6 @@
 
 ## 🏆 Recent Achievements
 
-**MuEunJae Award (2026)**  
-Awarded to undergraduate graduates who contributed to POSTECH's development and enhanced its honor.
-
 **SK Hynix Internship Excellence Award (2025)**  
 Solution Group 1st Place at internship project presentation.
 
@@ -60,9 +57,6 @@ Blockchain-based donor information management platform.
 ---
 
 ## 🏅 Scholarships & Honors
-
-**MuEunJae Award (2026)**  
-Awarded to undergraduate graduates who contributed to POSTECH's development and enhanced its honor.
 
 **Presidential Science Scholarship (2024 - Current)**  
 National scholarship administered by the Ministry of Science and ICT.
