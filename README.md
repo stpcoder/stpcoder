@@ -13,7 +13,7 @@
 
 **DRAM AE Engineer @ SK hynix**
 - 🎓 B.S. in Computer Science & Engineering, POSTECH
-- 🏆 MuEunJae Award recipient
+- 🏆 Presidential Science Scholar (대통령과학장학금)
 - 🚀 Builder focused on AI, systems, and software products for real-world problems
 - 💡 Fast executor interested in product prototyping and applied engineering
 
@@ -23,17 +23,17 @@
 
 ## 🏆 Recent Achievements
 
-**🏅 MuEunJae Award (2026)**
+**🏅 MuEunJae Award (2026)**  
 Awarded to undergraduate graduates who contributed to POSTECH's development and enhanced its honor.
 
-**🎥 AI_TOP_100 Feature (2025)**
-Featured as a key person in **[AI와 함께 문제를 해결하는 사람들](https://www.youtube.com/watch?v=n6oodJTAD3k)**.
+**🎓 Presidential Science Scholarship (2024 - Current)**  
+National scholarship administered by the Ministry of Science and ICT.
 
-**🥈 Pohang Digital Twin AI Chatbot Hackathon (2025)** - Excellence Award (2nd Place)
-Small Port Integrated Control System with AI chatbot integration. [🔗 awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
+**🎓 Kwanjeong Educational Foundation Scholar (2024 - Current)**  
+Foundation supporting Korea's top talents.
 
-**🥇 BlackOut Hackathon (2025)** - Dunamu Track 1st Place (Overall 2nd)
-Blockchain-based donor information management platform.
+**🎓 Humanities Wisdom Scholar PAN+ 4th (2024 - Current)**  
+Humanities scholarship program by Platon Academy Foundation.
 
 ---
 
