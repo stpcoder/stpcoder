@@ -22,8 +22,8 @@
 
 ## 🏆 Recent Achievements
 
-**SK Hynix Internship Excellence Award (2025)**  
-Solution Group 1st Place at internship project presentation.
+**Kakao AI TOP 100 Grand Prize (2025)**  
+Grand Prize winner among 3,000 applicants and 100 finalists.
 
 **Pohang Digital Twin AI Chatbot Hackathon (2025)** - Excellence Award (2nd Place)  
 Small Port Integrated Control System with AI chatbot integration. [awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
