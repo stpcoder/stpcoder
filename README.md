@@ -59,13 +59,13 @@ Blockchain-based donor information management platform.
 
 ## 🏅 Scholarships & Honors
 
-**Presidential Science Scholarship (2024 - Current)**  
+**Presidential Science Scholarship (2024.02 - 2026.02)**  
 National scholarship administered by the Ministry of Science and ICT.
 
-**Kwanjeong Educational Foundation Scholar (2024 - Current)**  
+**Kwanjeong Educational Foundation Scholar (2024.01 - 2026.02)**  
 Foundation supporting Korea's top talents.
 
-**Humanities Wisdom Scholar PAN+ 4th (2024 - Current)**  
+**Humanities Wisdom Scholar PAN+ 4th (2024.07 - 2024.12)**  
 Humanities scholarship program by Platon Academy Foundation.
 
 ---
