@@ -29,8 +29,8 @@ Grand Prize winner among 3,000 applicants and 100 finalists.
 **Challenge K-Startup 2023 Excellence Award (Top 10 / 6,187 teams)**  
 Minister of National Defense Award.
 
-**Pohang Digital Twin AI Chatbot Hackathon (2025)** - Excellence Award (2nd Place)  
-Small Port Integrated Control System with AI chatbot integration. [awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
+**MuEunJae Award (2026)**  
+Awarded to undergraduate graduates who contributed to POSTECH's development and enhanced its honor.
 
 **BlackOut Hackathon (2025)** - Dunamu Track 1st Place (Overall 2nd)  
 Blockchain-based donor information management platform.
