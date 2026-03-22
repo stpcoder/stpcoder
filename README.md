@@ -76,61 +76,14 @@ Blockchain-based donor information management platform.
 
 ---
 
-## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 automatic
-Recently updated TypeScript project and one of the most current repositories on the profile.
-
-**Tech:** TypeScript  
-[🔗 Repository](https://github.com/stpcoder/automatic)
-
-</td>
-<td width="50%">
-
-### 💬 kakao-terminal
-Recently updated Python project and one of the most current public repositories on the profile.
-
-**Tech:** Python  
-[🔗 Repository](https://github.com/stpcoder/kakao-terminal)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚢 Ship Navigator
-Pohang Digital Twin AI Chatbot Hackathon project for small-port integrated control with AI chatbot support.
-
-**Tech:** JavaScript, AI Integration  
-[🔗 Repository](https://github.com/stpcoder/awesome-ship-navigator)
-
-</td>
-<td width="50%">
-
-### 🗺️ Memento Land
-AI-powered web application that transforms travel photos into 3D miniature collectibles.
-
-**Tech:** JavaScript, Vite, Gemini API  
-[🔗 Repository](https://github.com/stpcoder/mementoland)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🎬 Media
 
-- [AI_TOP_100 — AI와 함께 문제를 해결하는 사람들](https://www.youtube.com/watch?v=n6oodJTAD3k)
-- [KBS Nobel Week Documentary Appearance](https://www.youtube.com/watch?v=9sx0SyhFUEo)
-- [Kakao Official YouTube Appearance](https://youtu.be/ksdK-zpmBRI?t=2075)
-- [Kookmin Ilbo Interview](https://www.kmib.co.kr/article/view.asp?arcid=1767509497)
+- [AI_TOP_100 | AI와 함께 문제를 해결하는 사람들](https://www.youtube.com/watch?v=n6oodJTAD3k)
+- [KBS 1TV 신년 기획 다큐멘터리 〈노벨 위크〉](https://www.youtube.com/watch?v=9sx0SyhFUEo)
+- [카카오 공식 유튜브 | AI대탈출 - AI로 문제를 해결하고, 탈출하라!](https://youtu.be/ksdK-zpmBRI?t=2075)
+- [국민일보 인터뷰 | "AI가 못 푸는 문제? 내가 먼저 도전"…포스텍생 제태호 씨](https://www.kmib.co.kr/article/view.asp?arcid=1767509497)
 
----
 
 <div align="center">
 
