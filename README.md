@@ -5,7 +5,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-stpcoder.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stpcoder.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-taehoje-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehoje/)
   [![Email](https://img.shields.io/badge/Email-thbrian@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thbrian@naver.com)
-  [![Threads](https://img.shields.io/badge/Threads-%40meteho__1-000000?style=for-the-badge&logo=threads&logoColor=white)](http://threads.com/@meteho__1)
 
 </div>
 
