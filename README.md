@@ -11,10 +11,10 @@
 ## 🎓 About Me
 
 **DRAM AE Engineer @ SK hynix**
-- 🎓 B.S. in Computer Science & Engineering, POSTECH
-- 🏆 Presidential Science Scholar (대통령과학장학금)
-- 🚀 Builder focused on AI, systems, and software products for real-world problems
-- 💡 Fast executor interested in product prototyping and applied engineering
+- B.S. in Computer Science & Engineering, POSTECH
+- Presidential Science Scholar (대통령과학장학금)
+- Builder focused on AI, systems, and software products for real-world problems
+- Fast executor interested in product prototyping and applied engineering
 
 > "Building practical AI and systems that create real value in underexplored problem spaces."
 
@@ -22,16 +22,16 @@
 
 ## 🏆 Recent Achievements
 
-**🏅 MuEunJae Award (2026)**  
+**MuEunJae Award (2026)**  
 Awarded to undergraduate graduates who contributed to POSTECH's development and enhanced its honor.
 
-**🏆 SK Hynix Internship Excellence Award (2025)**  
+**SK Hynix Internship Excellence Award (2025)**  
 Solution Group 1st Place at internship project presentation.
 
-**🥈 Pohang Digital Twin AI Chatbot Hackathon (2025)** - Excellence Award (2nd Place)  
-Small Port Integrated Control System with AI chatbot integration. [🔗 awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
+**Pohang Digital Twin AI Chatbot Hackathon (2025)** - Excellence Award (2nd Place)  
+Small Port Integrated Control System with AI chatbot integration. [awesome-ship-navigator](https://github.com/stpcoder/awesome-ship-navigator)
 
-**🥇 BlackOut Hackathon (2025)** - Dunamu Track 1st Place (Overall 2nd)  
+**BlackOut Hackathon (2025)** - Dunamu Track 1st Place (Overall 2nd)  
 Blockchain-based donor information management platform.
 
 ---
@@ -61,20 +61,19 @@ Blockchain-based donor information management platform.
 
 ## 🏅 Scholarships & Honors
 
-- 🏆 **MuEunJae Award** (2026)  
-  Awarded to undergraduate graduates who contributed to POSTECH's development and enhanced its honor
+**MuEunJae Award (2026)**  
+Awarded to undergraduate graduates who contributed to POSTECH's development and enhanced its honor.
 
-- 🎓 **Presidential Science Scholarship** (2024 - Current)  
-  National scholarship administered by the Ministry of Science and ICT
+**Presidential Science Scholarship (2024 - Current)**  
+National scholarship administered by the Ministry of Science and ICT.
 
-- 🎓 **Kwanjeong Educational Foundation Scholar** (2024 - Current)  
-  Foundation supporting Korea's top talents
+**Kwanjeong Educational Foundation Scholar (2024 - Current)**  
+Foundation supporting Korea's top talents.
 
-- 🎓 **Humanities Wisdom Scholar PAN+ 4th** (2024 - Current)  
-  Humanities scholarship program by Platon Academy Foundation
+**Humanities Wisdom Scholar PAN+ 4th (2024 - Current)**  
+Humanities scholarship program by Platon Academy Foundation.
 
 ---
-
 
 ## 🎬 Media
 
