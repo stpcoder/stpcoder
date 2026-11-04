@@ -35,8 +35,6 @@ Awarded to undergraduate graduates who contributed to POSTECH's development and 
 **BlackOut Hackathon (2025)** - Dunamu Track 1st Place (Overall 2nd)  
 Blockchain-based donor information management platform.
 
-[Additional awards and project materials](awards/README.md)
-
 ---
 
 ## 💼 Experience
